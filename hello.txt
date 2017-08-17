@@ -1,1 +1,1 @@
-Goodbye
+"You say 'Goodbye'" if "I say Hello"
