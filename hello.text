@@ -1,0 +1,8 @@
+puts "What do you say?"
+you_say = gets.chomp
+
+if you_say == "Goodbye"
+  puts "I say Hello"
+else
+  puts "Okay I guess..."
+end
